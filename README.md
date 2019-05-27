@@ -8,7 +8,8 @@
 После остановки дождаться очередную секунду и напечатать координаты в последний раз  
 Функция onMove должна получать тот же this и аргументы, что и обёртка  
 
-```function onMove(event) {
+```
+function onMove(event) {
   console.log(event.clientX)
 }
 
